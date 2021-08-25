@@ -9,5 +9,4 @@ int  main()
     cin >> i;
     cin >> nums[i];
     cout << nums <<endl;
-
 }
